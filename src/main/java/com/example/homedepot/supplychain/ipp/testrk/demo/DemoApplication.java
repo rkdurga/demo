@@ -9,5 +9,6 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("This is a Demo Proj");
+		System.out.println("New Branch test");
 	}
 }
